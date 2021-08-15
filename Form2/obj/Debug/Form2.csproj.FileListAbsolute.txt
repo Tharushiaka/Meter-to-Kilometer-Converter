@@ -1,0 +1,28 @@
+C:\Users\hp\Desktop\C#\Form2\Form2\bin\Debug\Form2.exe.config
+C:\Users\hp\Desktop\C#\Form2\Form2\bin\Debug\Form2.exe
+C:\Users\hp\Desktop\C#\Form2\Form2\bin\Debug\Form2.pdb
+C:\Users\hp\Desktop\C#\Form2\Form2\obj\Debug\Form2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\Form2\Form2\obj\Debug\Form2.Form1.resources
+C:\Users\hp\Desktop\C#\Form2\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\Form2\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\Form2\Form2\obj\Debug\Form2.exe
+C:\Users\hp\Desktop\C#\Form2\Form2\obj\Debug\Form2.pdb
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\bin\Debug\Form2.exe.config
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\bin\Debug\Form2.exe
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\bin\Debug\Form2.pdb
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.Form1.resources
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.exe
+C:\Users\hp\Desktop\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.pdb
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\bin\Debug\Form2.exe.config
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\bin\Debug\Form2.exe
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\bin\Debug\Form2.pdb
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.Form1.resources
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.exe
+C:\Users\hp\Desktop\K.P.T.Ashani\C#\ES Assignment 21018802 K.P.T.Ashani\Form2\Form2\obj\Debug\Form2.pdb
